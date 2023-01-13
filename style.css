@@ -7,3 +7,6 @@ a {
     color: rgb(90, 200, 250);
     text-decoration: none;
 }
+td, tr {
+    border: 1px double white;
+}
