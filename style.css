@@ -1,0 +1,9 @@
+body {
+    background-color: hwb(0 14% 85%);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(90, 200, 250);
+}
+a {
+    color: rgb(90, 200, 250);
+    text-decoration: none;
+}
